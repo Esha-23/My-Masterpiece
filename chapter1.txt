@@ -1,0 +1,1 @@
+gpg --armor --export 7AE645C0CF8E292A | sudo tee /etc/apt/trusted.gpg.d/pritunl.asc
